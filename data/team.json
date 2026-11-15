@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Trần Phạm Như Khang",
+    "role": "Nhóm trưởng",
+    "task": "Lập kế hoạch, điều phối, phân công và theo dõi tiến độ công việc của nhóm."
+  },
+  {
+    "name": "Nguyễn Huỳnh Quốc Cường",
+    "role": "Thành viên",
+    "task": "Đề xuất ý tưởng và phương pháp làm việc; đại diện nhóm giải quyết việc bên ngoài."
+  },
+  {
+    "name": "Nguyễn Anh Đức",
+    "role": "Thành viên",
+    "task": "Giám sát, đánh giá nhiệm vụ của từng thành viên; điều phối công việc chung."
+  },
+  {
+    "name": "Nguyễn Đình Hòa",
+    "role": "Thành viên",
+    "task": "Đề xuất ý tưởng mới; tìm thông tin và thực hiện nội dung được giao."
+  },
+  {
+    "name": "Nguyễn Trường Hưng",
+    "role": "Thành viên",
+    "task": "Ghi chép tiến trình họp, quản lý chi phí nhóm; hỗ trợ thiết kế slide."
+  },
+  {
+    "name": "Lê Phương Nam",
+    "role": "Thành viên",
+    "task": "Tìm các điểm khó khăn để khắc phục; trực tiếp thực hiện nội dung bài làm."
+  },
+  {
+    "name": "Lê Quang Thắng",
+    "role": "Thành viên",
+    "task": "Kiểm tra tiến độ và mức độ hoàn thiện; nhắc thành viên nộp đúng hạn."
+  },
+  {
+    "name": "Trần Nguyên Thành",
+    "role": "Thành viên",
+    "task": "Phân bổ tài liệu; tập hợp công việc thành một kế hoạch chung của nhóm."
+  },
+  {
+    "name": "Nguyễn Chí Thành",
+    "role": "Thành viên",
+    "task": "Trao đổi với các nhóm khác để tránh trùng đề tài; giảng hoà khi có mâu thuẫn."
+  },
+  {
+    "name": "Phạm Thị Bích Thảo",
+    "role": "Thành viên",
+    "task": "Liên hệ giảng viên; theo dõi quan hệ bên ngoài của nhóm."
+  },
+  {
+    "name": "Nguyễn Gia Khải Thịnh",
+    "role": "Thành viên",
+    "task": "Kiểm tra tính xác thực của nguồn tài liệu; hỗ trợ thành viên khi cần."
+  },
+  {
+    "name": "Ngô Thế Thông",
+    "role": "Thành viên",
+    "task": "Phản biện nội dung; trực tiếp hoàn thiện bài cùng các thành viên."
+  },
+  {
+    "name": "Lê Quang Vũ",
+    "role": "Thành viên",
+    "task": "Thực hiện các công đoạn của bài tập; xử lý tình huống phát sinh."
+  }
+]
